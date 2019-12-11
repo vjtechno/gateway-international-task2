@@ -1,1 +1,1 @@
-# gateway-international-task2
+This project was created by J.R. Strayhorn and Bryon Wyly
